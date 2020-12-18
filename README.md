@@ -32,6 +32,7 @@ Plug "jim-at-jibba/navy-vim"
 - `X` - stops all services
 - `c` - copies url of selected service
 - `s` - starts selected service
+- `q` - close window
 ```
 
 ## Author
