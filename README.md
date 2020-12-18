@@ -35,7 +35,7 @@ Plug "jim-at-jibba/navy-vim"
 
 👤 **James Best**
 
-* Website: jamesbest.tech
+* Website: [jamesbest.tech](https://jamesbest.tech)
 * Twitter: [@jimgbest](https://twitter.com/jimgbest)
 * Github: [@jim-at-jibba](https://github.com/jim-at-jibba)
 
