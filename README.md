@@ -22,14 +22,14 @@ Plug "jim-at-jibba/navy-vim"
 
 ## Usage
 
-`:Navy` - pulls up the floating window
-`j/k`   - up and down
-`l`     - launches selected service
-`x`     - stops selected service
-`X`     - stops all services
-`c`     - copies url of selected service
-`s`     - starts selected service
-`q`     - close window
+- `:Navy` - pulls up the floating window
+- `j/k`   - up and down
+- `l`     - launches selected service
+- `x`     - stops selected service
+- `X`     - stops all services
+- `c`     - copies url of selected service
+- `s`     - starts selected service
+- `q`     - close window
 
 ## Author
 
