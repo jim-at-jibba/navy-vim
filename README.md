@@ -10,11 +10,9 @@
 
 ## Requirements
 
-```sh
 - [Navy](https://www.npmjs.com/package/navy)
 - [Neovim nightly](https://github.com/neovim/neovim/releases)
 
-```
 
 ## Install
 
