@@ -1,9 +1,6 @@
 <h1 align="center">Welcome to navy-vim 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="a" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
   <a href="https://twitter.com/jimgbest" target="_blank">
     <img alt="Twitter: jimgbest" src="https://img.shields.io/twitter/follow/jimgbest.svg?style=social" />
   </a>
@@ -14,15 +11,15 @@
 ## Requirements
 
 ```sh
-- Navy
-- Neovim nightly
+- [Navy](https://www.npmjs.com/package/navy)
+- [Neovim nightly](https://github.com/neovim/neovim/releases)
 
 ```
 
 ## Install
 
 ```sh
-Plug "jim-at-jibba/navy-vim";
+Plug "jim-at-jibba/navy-vim"
 ```
 
 ## Usage
